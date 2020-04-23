@@ -1,3 +1,4 @@
-# buscacep
+# Projeto-Base
 
-Aplicativo para buscar CEP com requisição axios da disciplina de dispositivos móveis do Centro Universitário Estácio do Ceará
+Aplicativo para ser base para outros projetos implementados na disciplina de Programação para dispositivos móves da Estácio
+Navegação entre interfaces, requisição http com axios e uso de componentes da biblioteca do React Native
